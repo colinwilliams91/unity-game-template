@@ -18,7 +18,7 @@ This is a repo set up w/ proper gitignore and project board for a game developme
     - 🔎Reviewer: checks out `main` and builds in Unity from new `main`
     - 🔎Reviewer: tests in Unity
     - 📌Once tested, notify 📝Author of approval
-- 🎇Merge PR to `prod` and merge or revise and repeat
+- 🎇PR to `prod` and merge
 
 ## Footnotes:
 
