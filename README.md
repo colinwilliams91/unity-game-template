@@ -5,7 +5,7 @@ This is a repo set up w/ proper gitignore and project board for a game developme
 ## Git Workflow
 - 📌Clone down the organization's repo as your `origin` ("the trunk" | "the org repo" | "org remote" | "origin")
   - This should probably be done as a .zip
-- 📌Pick up a Ticket from the [Project Board](...)
+- 📌Pick up a Ticket from the [Project Board](https://github.com/orgs/<org-name/projects/1/views/1)
   - Assign yourself to the ticket and move it into the "In Progress" lane
   - Create a branch directly from that ticket's full view on GitHub<sup>see diagram 1.0 - 1.2</sup>
 - 📌Fetch from `origin main` (paste what you copied) in your IDE and checkout your new feature-branch which should share the same name as the issuing ticket
