@@ -20,7 +20,7 @@ This is a repo set up w/ proper gitignore and project board for a game developme
     - 📌Once tested, notify 📝Author of approval
 - 🎇Merge PR to `prod` and merge or revise and repeat
 
-### Footnotes:
+## Footnotes:
 
 diagram<sup>1.0</sup>
 ![image](https://github.com/Nola-Devs/Nola-Devs-v2/assets/92059005/2e40f7b5-e109-4062-b323-96228da620bd)
