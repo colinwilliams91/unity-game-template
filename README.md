@@ -4,7 +4,7 @@ This is a repo set up w/ proper gitignore and project board for a game developme
 ## How to hook up Unity to Git/GH
 - Make a Repository on GitHub (GH)
 - Make a new project from Unity Hub (UH)
-	- Make the name of the project the SAME as the cloned down repo (should just be the name of the repo (_sans-"main"_))
+	- Make the name of the project the SAME as what the cloned down repo will be (should just be the name of the repo (_sans-"main"_))
 - Create a script in your new Unity project (within Unity) to open VS inside of it
 - Open a terminal in the root folder in VS (your unity proj)
 - Run `git init` to initialize a git repo inside of it
